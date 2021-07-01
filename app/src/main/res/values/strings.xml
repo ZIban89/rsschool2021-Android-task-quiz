@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Quiz</string>
+
+
+    <string name="next_btn">Next</string>
+    <string name="previuos_btn">Previous</string>
+    <string name="submit_btn">Submit</string>
+    <string name="question_numb">Question %d</string>
+    <string name="question">%d) %s</string>
+    <string name="answer">Your answer: %s (%b)</string>
+    <string name="mail_subject">А вот и ответики подъехали</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_result">Your result %d/5</string>
+    <string name="close_app">close app</string>
+    <string name="restart_quize">restart quize</string>
+    <string name="share">share</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
